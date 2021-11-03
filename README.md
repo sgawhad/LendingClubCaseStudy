@@ -43,7 +43,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [Sushen Gawhad] - feel free to contact me!
 
 
 <!-- Optional -->
